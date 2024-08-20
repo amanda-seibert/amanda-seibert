@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amanda-seibert
 - 👀 I’m interested in books, tv and games
 - 🌱 I’m currently learning SQL, GitHub, Python, Power BI
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on idk yet
 - 📫 How to reach me amandakseibert@gmail.com 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to do a lot of things at the same time
