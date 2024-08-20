@@ -2,7 +2,7 @@
 - 👀 I’m interested in books, tv and games
 - 🌱 I’m currently learning SQL, GitHub, Python, Power BI
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me amandakseibert@gmail.com 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to do a lot of things at the same time
 
