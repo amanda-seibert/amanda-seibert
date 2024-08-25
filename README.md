@@ -2,7 +2,7 @@
 # <span style="color: pink;">Hello! | I'm Amanda Seibert!</span> 🤗
 
 
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="450" src="https://github.com/user-attachments/assets/04b41202-d8e5-4d01-b9cb-2c27398d77ad" style="margin-top: 20px;">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="450" src="https://github.com/user-attachments/assets/04b41202-d8e5-4d01-b9cb-2c27398d77ad" style="margin-left: 90px; margin-top: 20px;">
 
 
 
