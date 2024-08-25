@@ -6,7 +6,4 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to do a lot of things at the same time
 
-<!---
-amanda-seibert/amanda-seibert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+https://web.dio.me/track/953ab0a9-6d55-4e00-ab7f-5ed855d288ca
