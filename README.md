@@ -2,7 +2,7 @@
 # <span style="color: pink;">Hello! | I'm Amanda Seibert!</span> 🤗
 
 
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="450" src="https://github.com/user-attachments/assets/04b41202-d8e5-4d01-b9cb-2c27398d77ad" style="margin-top: 50px;">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="450" src="https://github.com/user-attachments/assets/04b41202-d8e5-4d01-b9cb-2c27398d77ad" style="margin-top: 20px;">
 
 
 
@@ -11,6 +11,8 @@
 ♡  I’m interested in books, anime and games.
 
 ♡  My pronouns are she/her.
+
+
 
 
 🌸 I am a professional with experience in databases, currently focused on enhancing my programming skills through a Python course. I have solid knowledge of SQL, particularly with Oracle, and have executed various tasks involving databases. Additionally, I am familiar with HTML and SQL, as well as basic Power BI. I am always seeking new challenges to expand my technical competencies and contribute to effective solutions.</span>
