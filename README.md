@@ -6,4 +6,4 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to do a lot of things at the same time
 
-<img src-"https://i.pinimg.com/564x/69/68/4b/69684b62bc72d19642273491b51fcee0.jpg /"
+![me] (https://i.pinimg.com/564x/69/68/4b/69684b62bc72d19642273491b51fcee0.jpg)
